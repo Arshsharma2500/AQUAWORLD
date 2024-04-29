@@ -1,0 +1,174 @@
+{
+  "data": [
+    {
+      "ourQualities": [
+        {
+          "id": 1,
+          "image": "./quality_food.svg",
+          "title": "QUALITY FOOD",
+          "description": "Known for its unmatched food quality, our restaurant sources the freshest ingredients and expertly prepares each dish to perfection, ensuring a delicious and satisfying dining experience every time."
+        },
+        {
+          "id": 2,
+          "image": "./water.jpg",
+          "title": "SUPER RIDES",
+          "description": "Experience exhilarating thrills and unbeatable safety with our quality rides. From towering slides to relaxing lazy rivers, every ride at AQUAWORLD promises unforgettable fun for all ages"
+        },
+        {
+          "id": 3,
+          "image": "./fast_delivery.svg",
+          "title": "CONNECTIVITY",
+          "description": "Stay connected in every way possible at AQUAWORLD. Share your adventures, stay updated, and connect with loved ones while enjoying our aquatic paradise."
+        }
+      ],
+      "dishes": [
+        {
+          "id": 1,
+          "image": "./dinner1.jpeg",
+          "title": "ROASTED LAMB RUMP",
+          "category": "Dinner"
+        },
+        {
+          "id": 2,
+          "image": "./dinner2.png",
+          "title": "CITRUS CURED SALMON",
+          "category": "Dinner"
+        },
+        {
+          "id": 3,
+          "image": "./breakfast1.png",
+          "title": "PAN SEARED SEA BASS",
+          "category": "Breakfast"
+        },
+        {
+          "id": 4,
+          "image": "./dinner3.png",
+          "title": "STUFFED STRAWBERRY",
+          "category": "Dinner"
+        },
+        {
+          "id": 5,
+          "image": "./lunch1.png",
+          "title": "BURGER MEAL",
+          "category": "Lunch"
+        },
+        {
+          "id": 6,
+          "image": "./dinner4.png",
+          "title": "MUSSELS SOUP",
+          "category": "Dinner"
+        },
+        {
+          "id": 7,
+          "image": "./dinner5.png",
+          "title": "ITALIAN SPAGHETTI",
+          "category": "Dinner"
+        },
+        {
+          "id": 8,
+          "image": "./dinner6.png",
+          "title": "GRILLED FISH",
+          "category": "Dinner"
+        }
+      ],
+      "team": [
+        {
+          "id": 1,
+          "image": "./avtar.png",
+          "name": "Arsh Kumar",
+          "designation": "Developer"
+        },
+        {
+          "id": 2,
+          "image": "./avtar2.png",
+          "name": "Priyam Raj",
+          "designation": "Owner"
+        },
+        {
+          "id": 3,
+          "image": "./avtar3.png",
+          "name": "KRISH PATEL",
+          "designation": "Manager"
+        },
+        {
+          "id": 4,
+          "image": "./avtar4.png",
+          "name": "ABHISHEK RATHORE",
+          "designation": "trainer"
+        }
+      ],
+      "testimonials": [
+        {
+          "id": 1,
+          "image": "./review1.png",
+          "description": "Morbi nulla nec dui lacus, in. Libero in pretium metus massa. Sodales dignissim vitae mauris varius faucibus. Eleifend dui, non laoreet ac luctus facilisis diam. Enim scelerisque vel at id viverra tellus.",
+          "rating": 4,
+          "userName": "Jane Cooper"
+        },
+        {
+          "id": 2,
+          "image": "./review2.png",
+          "description": "Tortor vel nunc netus pharetra enim, enim dolor mauris in. Sit nam fringilla in egestas. Libero condimentum quis in vulputate adipiscing venenatis augue. Venenatis faucibus.",
+          "rating": 4.5,
+          "userName": "Esther Howard"
+        },
+        {
+          "id": 3,
+          "image": "./review3.png",
+          "description": "Tortor vel nunc netus pharetra enim, enim dolor mauris in. Sit nam fringilla in egestas. Libero condimentum quis in vulputate adipiscing venenatis augue. Venenatis faucibus.",
+          "rating": 5,
+          "userName": "Guy Hawkins"
+        }
+      ],
+      "who_we_are": [
+        {
+          "id": 1,
+          "number": "14",
+          "title": "Restaurants"
+        },
+        {
+          "id": 2,
+          "number": "20",
+          "title": "Chef In Kitchen"
+        },
+        {
+          "id": 3,
+          "number": "08",
+          "title": "Years Of Experience"
+        },
+        {
+          "id": 4,
+          "number": "200",
+          "title": "Food Dishes"
+        }
+      ],
+      "navbarLinks": [
+        {
+          "id": 1,
+          "title": "HOME",
+          "link": "heroSection"
+        },
+        {
+          "id": 2,
+          "title": "ABOUT US",
+          "link": "about"
+        },
+        {
+          "id": 3,
+          "title": "SERVICES",
+          "link": "qualities"
+        },
+        {
+          "id": 4,
+          "title": "TEAM",
+          "link": "team"
+        },
+        {
+          "id": 5,
+          "title": "BOOKING",
+          "link": "reservation"
+        }
+      ]
+    }
+  ]
+}
